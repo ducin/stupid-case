@@ -2,7 +2,7 @@
   "name": "stupid-case",
   "description": "Tired of quarrels about 🥙-case, 🐫-case, 🐍-case etc? Try out the ultimate naming convention!",
   "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
-  "version": "1.0.0-rc2",
+  "version": "1.0.0",
   "keywords": [
     "javascript",
     "typescript",
@@ -12,8 +12,5 @@
     "stupid"
   ],
   "main": "src/stupid-case.js",
-  "types": "stupid-case.d.ts",
-  "dependencies": {
-    "stupid-case": "^1.0.0-rc1"
-  }
+  "types": "stupid-case.d.ts"
 }
