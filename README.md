@@ -1,2 +1,5 @@
 # stupid-case
-the one-to-rule-them-all naming convention
+
+[Motivation, Implementation Details and a Brief Introduction](https://twitter.com/tomasz_ducin/status/1736860807605158269).
+
+**Deterministic**, **cachable**, **opinionated**. KISS.

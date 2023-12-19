@@ -1,0 +1,14 @@
+{
+  "name": "stupid-case",
+  "description": "Tired of quarrels about 🥙-case, 🐫-case, 🐍-case etc? Try out the ultimate naming convention!",
+  "author": "Tomasz Ducin <tomasz.ducin@gmail.com>",
+  "version": "1.0.0-rc1",
+  "keywords": [
+    "javascript",
+    "case",
+    "naming",
+    "convention",
+    "stupid"
+  ],
+  "main": "src/stupid-case.js"
+}
